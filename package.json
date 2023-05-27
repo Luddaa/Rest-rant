@@ -20,5 +20,8 @@
     "url": "https://github.com/Luddaa/Rest-rant/issues"
   },
   "homepage": "https://github.com/Luddaa/Rest-rant#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
